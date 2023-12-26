@@ -6,4 +6,4 @@ Change the file path in the bat file to where you saved the script.
 Create a shortcut of the bat file and put it in your startup folder.
 To find this folder press Win + R and type shell:startup then click okay and it will take you to the folder. 
 
-I have only tested this script on win11 but im sure it proably works on older versions as well.
+I have only tested this script on win11 but I'm sure it probably works on older versions as well.
